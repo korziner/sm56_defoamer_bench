@@ -1,5 +1,8 @@
 # sm56_defoamer_bench
 PCIe GEN 1@ 4x transfer speedup hacks compared to Сырой трансферъ FP16
+
+<img width="1141" height="568" alt="image" src="https://github.com/user-attachments/assets/d31a1404-6a5a-43c8-b285-403c5447bf04" />
+
 ```
 julia sm56_defoamer_bench_v2.0.jl                     
 [ Info: 🖥️ GPU: NVIDIA CMP 50HX (SM 7.5, 56 SM)
